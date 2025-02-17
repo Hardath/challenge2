@@ -1,0 +1,2 @@
+flask==2.x
+psycopg2==2.x
